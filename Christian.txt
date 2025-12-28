@@ -1,0 +1,21 @@
+Hi Christian,
+
+Welcome to the start of your Engineer Paid Interview assignment - your 48-hour work window officially begins now!
+
+Access information you'll need: 
+
+Your unique API Key is: sk_live_0d45533d173236b598f5551cf813878b9e50723f142cad39
+Access NorthWind banking API at: https://northwind.dev.array.io/swagger/
+Download link for baseline repo: https://storage.googleapis.com/array-interview-downloads/candidate-golang-project-starter.zip
+Just a quick reminder of the key details:
+
+You now have 48 hours to complete and submit your assignment.
+Please refer to the PDF attached for all instructions and deliverables.
+As mentioned, we can’t guarantee timely responses to questions during this window.
+If we don’t receive your submission within 48 hours, we’ll assume you’re unable to complete the assignment and no payment will be issued.
+We’re excited to see what you create - good luck and happy building!
+
+Best,
+The Array talent team
+
+

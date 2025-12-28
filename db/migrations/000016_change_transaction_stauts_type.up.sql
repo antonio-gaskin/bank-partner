@@ -1,0 +1,2 @@
+ALTER TABLE transactions
+    ALTER COLUMN status TYPE VARCHAR(50);

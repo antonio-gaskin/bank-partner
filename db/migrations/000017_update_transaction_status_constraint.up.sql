@@ -1,0 +1,2 @@
+-- Update transaction status check constraint to use uppercase values
+ALTER TABLE transactions ADD CONSTRAINT transactions_status_check CHECK (status IN ('PENDING', 'COMPLETED', 'FAILED', 'REVERSED'));

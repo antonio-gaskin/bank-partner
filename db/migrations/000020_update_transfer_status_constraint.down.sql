@@ -1,0 +1,1 @@
+ALTER TABLE transfers ALTER CONSTRAINT transfers_status_check;

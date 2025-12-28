@@ -1,0 +1,1 @@
+ALTER TABLE transfers ADD COLUMN transfer_id VARCHAR(50) NOT NULL;

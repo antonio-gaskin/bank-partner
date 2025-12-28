@@ -1,0 +1,1 @@
+ALTER TABLE transfers ADD COLUMN reference_number VARCHAR(50) NOT NULL;
